@@ -1,0 +1,34 @@
+{
+    "author": "Joe Rozek",
+    "dependencies": {},
+    "keywords": [],
+    "name": "horizontal-style",
+    "pebble": {
+        "displayName": "Horizontal Style",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "compatibility": "2.7",
+                    "file": "fonts/perfect-dos-vga.ttf",
+                    "name": "PERFECT_DOS_VGA_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "57fd206b-5e81-4cda-90e1-b223c5f4fd4b",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
